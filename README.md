@@ -1,4 +1,4 @@
-# algorithm-problem
+# Algorithm-problem
 
 # Cheney Algorithm
 Cheney, is a stop and copy method of tracing garbage collection in computer software systems. 
